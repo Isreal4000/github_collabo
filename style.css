@@ -8,7 +8,7 @@
 :root {
     --black: #222;
     --yt: #fdfcfa;
-    --brdRd: 0.25rem;
+    --brdRd: .25rem;
     --bxShd: 0 1px 6px 0 rgba(102, 103, 104, 0.445);
     --div: 150px;
 }
@@ -82,18 +82,9 @@ h2 {
     background-color: rgb(14, 6, 35);
 }
 
-#ringnyu {
-    background-color: rgb(101, 93, 138);
+#israel {
+    background-color: rgb(16, 8, 40);
 }
-
-#moses {
-    background-color: rgb(13, 5, 31);
-}
-
-#josh {
-    background-color: var(--black);
-}
-
 
 /** Place your selector above this comment **/
 
